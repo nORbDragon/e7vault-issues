@@ -4,7 +4,7 @@ E7 Vault Issue Tracker / Трекер проблем и предложений �
 
 ## English
 
-This is Issue Tracker for **E7 Vault** - https://www.e7vau.lt/
+This is Issue Tracker for **E7 Vault** - https://e7vau.lt/
 
 Of course, you will not find source codes for decoding sct and scsp files here. I'm greedy, yes! But here you can let me know about any bugs you find on my site. Remember to indicate which device and browser you were using to get this error.
 
@@ -24,7 +24,7 @@ But in any case, I am grateful to https://github.com/zklm for the fact that he p
 
 ## Тоже самое, но на русском языке
 
-Это - трекер проблем и предложений по мини-сайту **E7 Vault** - https://www.e7vau.lt/
+Это - трекер проблем и предложений по мини-сайту **E7 Vault** - https://e7vau.lt/
 
 Исходных кодов по декодированию sct и scsp файлов здесь вы, конечно же, не найдёте. Я жадный, да! Но здесь вы можете сообщать мне напрямую о найденных на моём мини-сайте ошибках. Не забывайте только указывать, какое устройство и браузер вы использовали для получения этой ошибки.
 
