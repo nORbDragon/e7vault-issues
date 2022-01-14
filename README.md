@@ -2,6 +2,25 @@
 
 E7 Vault Issue Tracker / Трекер проблем и предложений по E7 Vault
 
+## English
+
+This is Issue Tracker for **E7 Vault** - https://www.e7vau.lt/
+
+Of course, you will not find source codes for decoding sct and scsp files here. I'm greedy, yes! But here you can let me know about any bugs you find on my site. Remember to indicate which device and browser you were using to get this error.
+
+You can offer your ideas for filling the site. But this does not mean that I will implement them. But the main thing in our business is to express an idea? And there is a chance that it will interest me too.
+
+### About «E7 Vault»
+
+**«E7 Vault»** is planned as a replacement for the departed **e7herder.com**. Therefore, its design style and functionality may seem like "copy-paste" to some. That's how it was intended. And I don't hide that my site is just a replacement for **e7herder**.
+
+### Reasons for abandoning the «e7herder» engine:
+- Very hardcoded javascript code. It is very difficult to make changes to the code and site pages. For me.
+- There is no support for models from spine v3.8.xx in the model viewer (spine v2.1.27 only).
+- Other pages with character info, calculator, etc. are very hardcoded. At the moment there is no chance of updating the information on these pages. It is better to remove them altogether for now.
+
+But in any case, I am grateful to https://github.com/zklm for the fact that he posted a dump of his **«e7herder»** for free access - https://github.com/zklm/e7herder-issues/releases/tag/dump
+
 
 ## Тоже самое, но на русском языке
 
